@@ -1,0 +1,77 @@
+body,html{
+    margin: 0 auto;
+    background-color: #000000;
+    background-image: url('BG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
+
+.text{
+    color: #ffffff;
+    font-size: 205px;
+}
+.bottom{
+    position: absolute;
+    width: 450px;
+    height: 1000px;
+    bottom: 450px;
+    left: 320px;    
+}
+
+.side{
+    position: absolute;
+    bottom: 450px;
+    left: 0;
+    width: 500px;
+    height: 500px;
+}
+
+.otherside{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: px;
+    height: px;
+}
+
+.name{
+    position: absolute;
+    color: #ffffff9b;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    font-size: 80px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bolder;
+    
+}
+
+.name1{
+    position: absolute;
+    color: #ffffff9b;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    font-size: 70px;
+    /*margin-left: 20px;
+    margin-top: 20px;*/
+    bottom: 480px;
+    right: 30px;
+    font-weight: bolder;
+}
+
+footer{
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: 1350px;
+    margin-left: 400px;
+    
+     
+}
+
+    
+
+
+
